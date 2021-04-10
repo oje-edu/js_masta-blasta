@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,OAAO,CAAP,8EAAO;AAEP,OAAO,CAAP,oFAAO;AAEP,OAAO,CAAP,mFAAO;AAEP,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,KAAK;CAAG",
+    "sources": [
+        "index.sass",
+        "base/_variables.sass"
+    ],
+    "names": [],
+    "file": "index.css"
+}

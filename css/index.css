@@ -1,0 +1,8 @@
+@import url(/home/thoje/projects/canvas/canvas-game/node_modules/tailwindcss/base.css);
+@import url(/home/thoje/projects/canvas/canvas-game/node_modules/tailwindcss/components.css);
+@import url(/home/thoje/projects/canvas/canvas-game/node_modules/tailwindcss/utilities.css);
+body {
+  margin: 0;
+  background: black;
+}
+/*# sourceMappingURL=index.css.map */
